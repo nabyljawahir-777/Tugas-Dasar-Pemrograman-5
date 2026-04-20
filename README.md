@@ -8,4 +8,4 @@
 
 ---
 
-Repository ini berisi kumpulan program Java dasar sebagai latihan pemrograman:
+Repository ini berisi kumpulan program python dasar sebagai latihan pemrograman:
